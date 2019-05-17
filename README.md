@@ -1,2 +1,2 @@
 # HelloWorld
-Sample repository
+Sample repository for testing git.
